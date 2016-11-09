@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Thu Jul 07 10:23:57 COT 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-c5f5-5239-00002e75bfa8 
-on database directory /home/jasam/repositories/bimbo_challenge/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@426dd58c 
+Sun Jul 10 21:36:34 COT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0155-d7d0-3421-00002f87ac88 
+on database directory /home/jasam/repositories/bimbo_challenge/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2e5e2c2d 
 Loaded from file:/home/jasam/spark-1.6.1-bin-hadoop2.6/lib/spark-assembly-1.6.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_91-b14
